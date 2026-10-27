@@ -3,7 +3,7 @@
 > **A lightweight, transparent, and auditable Structural Equation Modeling (SEM) engine, acting as a sub-module of the Chelate Shell ecosystem.**
 > Designed for social science researchers and anyone requiring reproducible, highly transparent modeling workflows.
 
-**English** · [简体中文](README_zh.md)
+**English** · [简体中文](README.md)
 
 **Version:** 1.0.0 | **Standalone** Sub-module | **Architecture:** Standalone / Adaptive Main-repo Compatibility
 
