@@ -7,7 +7,7 @@
   },
   "interface": {
     "displayName": "SEM Copilot",
-    "shortDescription": "Open-source AMOS replacement and AI copilot for structural-equation modeling.",
+    "shortDescription": "Open-source and AI copilot for structural-equation modeling.",
     "category": "Research"
   }
 }
