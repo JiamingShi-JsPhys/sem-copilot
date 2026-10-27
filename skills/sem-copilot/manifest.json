@@ -1,0 +1,31 @@
+{
+  "name": "sem-copilot",
+  "version": "1.0.0",
+  "stage": "gates",
+  "input_types": [
+    "csv",
+    "dataset",
+    "model",
+    "json",
+    "markdown"
+  ],
+  "output_type": "gate_result",
+  "output_types": [
+    "gate_result",
+    "figure",
+    "png",
+    "pdf",
+    "latex",
+    "tex"
+  ],
+  "dependencies": [
+    "semopy",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn"
+  ],
+  "sandbox_required": true,
+  "entrypoint": "scripts/run.py",
+  "description": "Unified SEM Copilot skill: fits and inspects SEMs (semopy + independent numpy cross-check + AMOS-style extensions), draws a publication-ready vector PDF path diagram, and exports a compilable LaTeX manuscript. One skill covers the full fit -> draw -> export loop. Standalone or inside Chelate Shell. Unverified on missing dependencies; isolated sandbox process with a 120-second circuit-breaker."
+}

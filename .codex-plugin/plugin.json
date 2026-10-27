@@ -1,0 +1,13 @@
+{
+  "name": "sem-copilot",
+  "version": "1.0.0",
+  "description": "A lightweight SEM Copilot (AMOS replacement) as a sub-module of Chelate Shell.",
+  "author": {
+    "name": "Jiaming Shi & Keqia Ying"
+  },
+  "interface": {
+    "displayName": "SEM Copilot",
+    "shortDescription": "Open-source AMOS replacement and AI copilot for structural-equation modeling.",
+    "category": "Research"
+  }
+}

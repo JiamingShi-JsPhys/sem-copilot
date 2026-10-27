@@ -1,0 +1,15 @@
+{
+  "name": "sem-copilot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skills/"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sem-copilot-marketplace",
+  "owner": {
+    "name": "JiamingShi-JsPhys"
+  },
+  "plugins": [
+    {
+      "name": "sem-copilot",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "A lightweight SEM Copilot as a sub-module of Chelate Shell."
+    }
+  ]
+}
