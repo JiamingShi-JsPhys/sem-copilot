@@ -5,7 +5,7 @@
 
 **English** · [简体中文](README_zh.md)
 
-**Version:** 1.0.0 | **Standalone** Sub-module | **Architecture:** Standalone / Adaptive Main-repo Compatibility
+**Version:** 1.0.0 | **Standalone** Sub-module
 
 ---
 
